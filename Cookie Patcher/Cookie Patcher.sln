@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookie Patcher", "Cookie Patcher\Cookie Patcher.csproj", "{F76B92A6-0F8B-4747-9180-AA6955E90A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76B92A6-0F8B-4747-9180-AA6955E90A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76B92A6-0F8B-4747-9180-AA6955E90A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76B92A6-0F8B-4747-9180-AA6955E90A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76B92A6-0F8B-4747-9180-AA6955E90A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C198FAD0-02C5-4F54-A5C7-9EAC9173A005}
+	EndGlobalSection
+EndGlobal
